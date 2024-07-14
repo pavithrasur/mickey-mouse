@@ -1,0 +1,41 @@
+*{
+  margin:0 ;
+  padding: 0;
+  padding: 10px;
+
+}
+ form
+{
+    background-color: rgb(192, 184, 243);
+    border: 2px solid blueviolet;
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+    
+
+}
+label{
+    display: block;
+}
+input , select
+
+{
+    margin-left: 20px;
+    height: 25px;
+    border: 2px solid rgb(194, 129, 193);
+    color: black;
+   
+}
+select
+{
+    padding: 20px;
+}
+button
+{
+    margin-left: 50px;
+    border: 2px solid rgb(194, 129, 193);
+    border-radius: 10px;
+    font-size: 18px;
+    
+}
